@@ -16,69 +16,64 @@ Data Science Major at BYU - Idaho.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2017-Projected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- With 3.0 GPA
 
 
 ## Related Experience
+- Python                      
+-	SQL
+-	Tableau
+-	Microsoft Word
+-	Excel
+
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2021 - September 2021`
+__Neuro-ID__, Whitefish, MT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Worked and Queried large data sets
+- Used SQL to organize and filter raw data
+- Learned 3 BI tools including Apache Superset, Quicksight, and Google Looker
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2020-2021`
+__Gorgeous Garage__, Rexburg, ID
+
+-	Operated and maintained many machines
+-	Worked and often lead a team of three or more to accomplish tasks
+-	Often fixed errors that would occur 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2018`
+__American Construction Supply Co.__, Rexburg, ID
+
+-	Managed organization of product in both warehouse and outside lot
+-	Punctually and reliably delivered products to customers
+-	Initiated and completed high end sales in person and over phone
+
+
+`2014-2016`
+__Service Missionary__, Chesapeake, VA
+
+-	Held weekly trainings focused on increasing efficiency, productivity, and results for 10+ individuals
+-	Trained 3 individuals in teaching, studying, and record keeping activities over a 9-month period
+-	Sought out and participated in numerous humanitarian projects
+ 
+
+
+`2013`
+__Eagle Scout__, Henderson, NV
+
+-	Planned, lead, and carried out a service project involving 40+ individuals, totaling over 300-man hours
+-	Worked with school district to receive necessary permits and permissions to repaint 15 100+ foot curbs
+-	Acquired donations for supplies including 10 gallons of paint, brushes, rollers, tarps, and buckets
+
+
 
 
 
